@@ -13,3 +13,4 @@ public:
 	mahasiswa(string pnama) :nama(pnama) { setId(); }
 };
 
+
