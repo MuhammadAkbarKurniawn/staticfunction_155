@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction_155", "stati
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction2_155", "staticfunction2_155\staticfunction2_155.vcxproj", "{00EE38D5-6AB0-4F17-B610-98F0D8F6CB14}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "consturctor", "consturctor\consturctor.vcxproj", "{730A596D-219C-420D-8DA0-66BF7FE24010}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{00EE38D5-6AB0-4F17-B610-98F0D8F6CB14}.Release|x64.Build.0 = Release|x64
 		{00EE38D5-6AB0-4F17-B610-98F0D8F6CB14}.Release|x86.ActiveCfg = Release|Win32
 		{00EE38D5-6AB0-4F17-B610-98F0D8F6CB14}.Release|x86.Build.0 = Release|Win32
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Debug|x64.ActiveCfg = Debug|x64
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Debug|x64.Build.0 = Debug|x64
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Debug|x86.ActiveCfg = Debug|Win32
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Debug|x86.Build.0 = Debug|Win32
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Release|x64.ActiveCfg = Release|x64
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Release|x64.Build.0 = Release|x64
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Release|x86.ActiveCfg = Release|Win32
+		{730A596D-219C-420D-8DA0-66BF7FE24010}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
